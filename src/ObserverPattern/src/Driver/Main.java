@@ -1,9 +1,9 @@
-package Driver;
+package ObserverPattern.src.Driver;
 
-import Listeners.CountingAnimalAddedListener;
-import Listeners.PrintNameAnimalAddedListener;
-import Models.Animal;
-import Subject.Zoo;
+import ObserverPattern.src.Listeners.CountingAnimalAddedListener;
+import ObserverPattern.src.Listeners.PrintNameAnimalAddedListener;
+import ObserverPattern.src.Models.Animal;
+import ObserverPattern.src.Subject.Zoo;
 
 public class Main {
 

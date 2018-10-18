@@ -1,6 +1,6 @@
-package Listeners;
+package ObserverPattern.src.Listeners;
 
-import Models.Animal;
+import ObserverPattern.src.Models.Animal;
 
 public interface AnimalAddedListener {
 

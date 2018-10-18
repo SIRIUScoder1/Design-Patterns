@@ -1,4 +1,4 @@
-package Models;
+package ObserverPattern.src.Models;
 
 public class Animal {
 

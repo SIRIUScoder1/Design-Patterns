@@ -1,7 +1,7 @@
-package Subject;
+package ObserverPattern.src.Subject;
 
-import Listeners.AnimalAddedListener;
-import Models.Animal;
+import ObserverPattern.src.Listeners.AnimalAddedListener;
+import ObserverPattern.src.Models.Animal;
 
 import java.util.ArrayList;
 import java.util.List;
