@@ -1,2 +1,2 @@
-# ObserverPattern
-Simple Implementation for Observer Pattern
+# Design Patterns
+Implementations of Various design patterns used in Software Development.
